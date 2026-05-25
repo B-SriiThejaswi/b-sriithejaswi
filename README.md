@@ -50,8 +50,14 @@ Passionate about ensuring software quality through robust test automation engine
 
 ### 📊 GitHub Activity Profile
 
-![Srii's GitHub Stats](https://github-readme-stats.vercel.app/api?username=B-SriiThejaswi&show_icons=true&theme=radial&hide_border=true)
-![Top Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=B-SriiThejaswi&layout=compact&theme=radial&hide_border=true)
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=B-SriiThejaswi&theme=radial&hide_border=true" alt="GitHub Streak Stats" />
+</p>
+
+<p align="left">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=B-SriiThejaswi&theme=radial" alt="Top Languages Card" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=B-SriiThejaswi&theme=radial" alt="Overall Stats Card" />
+</p>
 
 ---
 
