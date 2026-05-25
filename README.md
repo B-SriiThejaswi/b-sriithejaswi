@@ -48,19 +48,6 @@ Passionate about ensuring software quality through robust test automation engine
 
 ---
 
-### 📊 GitHub Activity Profile
-
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=B-SriiThejaswi&theme=radial&hide_border=true" alt="GitHub Streak Stats" />
-</p>
-
-<p align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=B-SriiThejaswi&theme=radial" alt="Top Languages Card" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=B-SriiThejaswi&theme=radial" alt="Overall Stats Card" />
-</p>
-
----
-
 ### 📫 Connect with Me
 - **LinkedIn:** [srii-thejaswi-bathula](https://www.linkedin.com/in/srii-thejaswi-bathula-609959270/?skipRedirect=true)
 - **Gmail:** sriithejaswi@gmail.com
